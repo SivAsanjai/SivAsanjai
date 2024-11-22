@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SivAsanjai
-- I'm interested in mathematical formalization, machine learning, and theoretical biology.
+- I'm interested in mathematical formalization, and ML.
 - The intersection of these field seems most exciting. 
 - I’m currently learning higher mathematics and computer science at Ashoka University. 
 - 📫 How to reach me: sivasanjaiga@gmail.com
